@@ -1,0 +1,10 @@
+G:/Dataset/S2/M1134046721RE.tif
+G:/Dataset/S2/M1116372683LE.tif
+G:/Dataset/S2/M122054682RE.tif
+G:/Dataset/S2/M175124932RE.tif
+G:/Dataset/S2/M1114021499RE.tif
+G:/Dataset/S2/M1129340193RE.tif
+G:/Dataset/S2/M113799518RE.tif
+G:/Dataset/S2/M150361817RE.tif
+G:/Dataset/S2/M102014464RE.tif
+G:/Dataset/S2/M1277607697LE.tif
