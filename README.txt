@@ -3,6 +3,6 @@ A crater-based matching method for multi-temporal lunar orbiter images. The usag
 2. Enter the command line: 
 CNSFM G:/Dataset/S1/list_images.txt G:/Dataset/S1/results/
 
-CNSFM G:/Dataset/S1/list_images.txt G:/Dataset/S2/results/
+CNSFM G:/Dataset/S2/list_images.txt G:/Dataset/S2/results/
 
 CNSFM G:/Dataset/S3/list_images.txt G:/Dataset/S3/results/
