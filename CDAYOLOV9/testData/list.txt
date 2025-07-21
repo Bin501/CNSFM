@@ -1,0 +1,3 @@
+G:/XieBin/MYProgram/CDAYOLOV9/testData/M108599352RE.tif
+G:/XieBin/MYProgram/CDAYOLOV9/testData/M108606146RE.tif
+G:/XieBin/MYProgram/CDAYOLOV9/testData/M115375448RE_noMapProjection.tif
