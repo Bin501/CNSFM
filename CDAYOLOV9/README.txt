@@ -7,3 +7,6 @@ Testing Hardware Configuration:
 GPU: NVIDIA GeForce RTX 3090 (24 GB VRAM)
 CPU: Intel Xeon Silver 4216 @ 2.10 GHz
 System RAM: 64 GB
+
+CDAYOLOV9.exe can be download from:
+link: https://pan.baidu.com/s/1IkwEpjZ-VR1eE3NzRSCltw?pwd=c6t1
